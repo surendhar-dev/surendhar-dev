@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Surendhar
-And im gonna paint the town GREEEN!
+And im gonna paint the town Red!
 <!--
 **surendhar-dev/surendhar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
