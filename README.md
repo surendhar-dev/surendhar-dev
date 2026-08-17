@@ -18,83 +18,99 @@
 
 > Creating New Things | App Development | Data Analytics
 
-`$ hobbies`
+<details>
+<summary><b>🎧 Hobbies</b></summary>
 
-> Music | Minecraft | Workout | More Music
+<br>
+
+🎵 **Music** — probably listening to something right now.
+
+⛏️ **Minecraft** — mining diamonds instead of doing something productive.
+
+🏋️ **Workout** — trying to convince my muscles that this was a good idea.
+
+🎶 **More Music** — because one playlist is never enough.
+
+</details>
+
+<details>
+<summary><b>🤖 More About Me</b></summary>
+
+<br>
 
 `$ whoami`
 
 > Just a guy who likes turning random ideas into random projects.
 
-`$ status`
+`$ current_status`
 
 ```text
-[████████████████████████████████] 100%
-
-Currently:
-→ Learning
-→ Building
-→ Breaking things
-→ Fixing things
-→ Listening to music
-→ Repeating
+Learning     ████████████████████ 100%
+Building     ██████████████████░░  90%
+Experimenting████████████████░░░░  80%
+Sleep        ██████░░░░░░░░░░░░░░  30%
 ```
 
-`$ minecraft`
+</details>
 
-> Started playing for "just 10 minutes."
->
+<details>
+<summary><b>⛏️ Minecraft.exe</b></summary>
+
+<br>
+
+> Started playing for "10 minutes."
+
 > Built a house.
->
+
 > Got distracted.
->
+
 > Mined for 4 hours.
->
+
 > Forgot why I logged in.
 
-`$ music`
+</details>
+
+<details>
+<summary><b>🎵 Currently Playing</b></summary>
+
+<br>
 
 ```text
-Now Playing:
-████████████████████████████████████████
-
-Volume      : ████████████████████ 100%
-Motivation  : ██████████████████░░  90%
-Productivity: ████████████░░░░░░░░  60%
-Music       : ████████████████████ 100%
-
-Status: probably listening to music right now.
+Volume       ████████████████████ 100%
+Music        ████████████████████ 100%
+Motivation   ██████████████████░░  90%
+Productivity ████████████░░░░░░░░  60%
 ```
 
-`$ workout`
+> Status: probably listening to music right now.
 
-> Gym.exe is running...
->
-> Motivation.exe has stopped responding.
->
-> Restarting...
+</details>
 
-`$ fun_fact`
+<details>
+<summary><b>💀 Totally Serious Information</b></summary>
 
-> I don't have a favorite song.
->
-> I have a playlist for every possible mood.
+<br>
+
+```text
+[✓] Likes creating things
+[✓] Likes learning new things
+[✓] Likes music
+[✓] Likes Minecraft
+[✓] Likes working out
+[✓] Has too many ideas
+[✓] Will probably add "one more feature"
+[✗] Knows when to stop
+```
+
+</details>
 
 `$ motto`
 
-> Build something.
->
-> Break something.
->
-> Learn something.
->
-> Repeat.
+> Build something. Break something. Learn something. Repeat.
 
 `$ exit`
 
 > Thanks for stopping by 👋
->
-> Now go listen to some music. 🎧
 
 ```
 
