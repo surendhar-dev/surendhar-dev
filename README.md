@@ -1,3 +1,5 @@
+````md
+# `surendhar`
 
 ```text
  ███████╗██╗   ██╗██████╗ ███████╗███╗   ██╗██████╗ ██╗  ██╗ █████╗ ██████╗
@@ -7,6 +9,7 @@
  ███████║╚██████╔╝██║  ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║██║  ██║
  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+````
 
 > Surendhar N
 
@@ -29,7 +32,30 @@
 
 🏋️ **Workout** — trying to convince my muscles that this was a good idea.
 
-🎶 **More Music** — because one playlist is never enough.
+🎶 **More Music** — because apparently one music section wasn't enough.
+
+</details>
+
+<details>
+<summary><b>🎵 $ music</b></summary>
+
+<br>
+
+```text
+Now Playing:
+████████████████████████████████████████
+
+Volume       : ████████████████████ 100%
+Motivation   : ██████████████████░░  90%
+Productivity : ████████████░░░░░░░░  60%
+Music        : ████████████████████ 100%
+
+Status: probably listening to music right now.
+```
+
+> I don't have a favorite song.
+>
+> I have a playlist for every possible mood.
 
 </details>
 
@@ -45,10 +71,10 @@
 `$ current_status`
 
 ```text
-Learning     ████████████████████ 100%
-Building     ██████████████████░░  90%
-Experimenting████████████████░░░░  80%
-Sleep        ██████░░░░░░░░░░░░░░  30%
+Learning      ████████████████████ 100%
+Building      ██████████████████░░  90%
+Experimenting ████████████████░░░░  80%
+Sleep         ██████░░░░░░░░░░░░░░  30%
 ```
 
 </details>
@@ -71,18 +97,31 @@ Sleep        ██████░░░░░░░░░░░░░░  30%
 </details>
 
 <details>
-<summary><b>🎵 Currently Playing</b></summary>
+<summary><b>🏃 $ daily_routine</b></summary>
 
 <br>
 
 ```text
-Volume       ████████████████████ 100%
-Music        ████████████████████ 100%
-Motivation   ██████████████████░░  90%
-Productivity ████████████░░░░░░░░  60%
+Wake up
+   ↓
+Music 🎵
+   ↓
+Code 💻
+   ↓
+Music 🎧
+   ↓
+Workout 🏋️
+   ↓
+Minecraft ⛏️
+   ↓
+More Music 🎶
+   ↓
+"Just one more thing..."
+   ↓
+3 hours later...
+   ↓
+Still listening to music 🎧
 ```
-
-> Status: probably listening to music right now.
 
 </details>
 
@@ -99,6 +138,8 @@ Productivity ████████████░░░░░░░░  60%
 [✓] Likes working out
 [✓] Has too many ideas
 [✓] Will probably add "one more feature"
+[✓] Says "I'll do it later"
+[✗] Actually does it later
 [✗] Knows when to stop
 ```
 
@@ -111,3 +152,7 @@ Productivity ████████████░░░░░░░░  60%
 `$ exit`
 
 > Thanks for stopping by 👋
+
+```
+
+```
