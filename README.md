@@ -1,6 +1,7 @@
 ````md
 # `surendhar`
 
+```text
 <pre><font color="#ff0000">
  ███████╗██╗   ██╗██████╗ ███████╗███╗   ██╗██████╗ ██╗  ██╗ █████╗ ██████╗
  ██╔════╝██║   ██║██╔══██╗██╔════╝████╗  ██║██╔══██╗██║  ██║██╔══██╗██╔══██╗
@@ -9,99 +10,94 @@
  ███████║╚██████╔╝██║  ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║██║  ██║
  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 </font></pre>
+````
 
-### `$ whoami`
+Surendhar N
 
-> Surendhar N
+`$ whoami`
 
-B.Tech IT student who likes building random things, breaking them,
-fixing them, and then wondering why they worked in the first place.
+> B.Tech IT student who enjoys creating new things, experimenting with ideas,
+> and turning random thoughts into actual projects.
 
-### `$ education`
+`$ education`
 
 > B.Tech IT @ Sethu Institute of Technology
 
-### `$ interests`
+`$ interests`
 
 > Creating New Things | App Development | Data Analytics
 
-### `$ hobbies`
+`$ hobbies`
 
-> 🎵 Music  
-> ⛏️ Minecraft  
-> 🏋️ Workout  
-> 🎧 More Music  
-> 🎶 Probably listening to music right now
+> 🎵 Music | ⛏️ Minecraft | 🏋️ Workout | 🎧 A LOT of Music
 
-### `$ personality.exe`
+`$ current_status`
+
+> Currently building something that started with:
+>
+> "Hmm... I wonder if I can make this."
+
+`$ personality.exe`
 
 ```text
 [✓] Curious
 [✓] Creative
-[✓] Likes building things
-[✓] Can spend hours on one stupid idea
-[✓] Music-dependent lifeform
-[✓] Minecraft survival expert*
-[✓] Occasionally productive
+[✓] Likes making random things
+[✓] Enjoys learning new stuff
+[✓] Music addict
+[✓] Minecraft enjoyer
+[✓] Workout enthusiast
+[✓] Data enjoyer
 [✗] Knows when to stop adding features
+```
 
-*results may vary
-````
-
-### `$ current_status`
-
-> Building something I probably didn't need to build.
-
-### `$ daily_routine`
+`$ daily_routine`
 
 ```text
-wake up
+Wake up
    ↓
-music
+Music 🎵
    ↓
-code
+Code 💻
    ↓
-music
+Music 🎧
    ↓
-workout
+Workout 🏋️
    ↓
-Minecraft
+Minecraft ⛏️
    ↓
-"one more song"
+More Music 🎶
+   ↓
+"Just one more thing..."
    ↓
 3 hours later...
-   ↓
-music
 ```
 
-### `$ fun_fact`
+`$ minecraft`
+
+> Built a house.
+>
+> Got distracted.
+>
+> Built another house.
+>
+> Forgot where the first house was.
+
+`$ fun_fact`
 
 > I don't have a favorite song.
+> I have a playlist for every possible mood.
+
+`$ motto`
+
+> If it works, don't touch it.
 >
-> I have a playlist for every possible version of myself.
+> ...unless you can make it cooler.
 
-### `$ terminal`
+`$ exit`
 
-```text
-surendhar@github:~$ git status
-
-On branch main
-
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  modified:   sleep_schedule
-  modified:   productivity
-  modified:   minecraft_world
-  modified:   music_playlist
-
-nothing to worry about.
-probably.
-```
-
-### `$ exit`
-
-> Thanks for visiting.
+> Thanks for stopping by 👋
+>
 > Now go listen to some music. 🎧
 
 ```
