@@ -1,16 +1,31 @@
-## Hi there 👋
-I am Surendhar
-<!--
-**surendhar-dev/surendhar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````md
+# `surendhar`
 
-Here are some ideas to get you started:
+```text
+ ███████╗██╗   ██╗██████╗ ███████╗███╗   ██╗██████╗ ██╗  ██╗ █████╗ ██████╗
+ ██╔════╝██║   ██║██╔══██╗██╔════╝████╗  ██║██╔══██╗██║  ██║██╔══██╗██╔══██╗
+ ███████╗██║   ██║██████╔╝█████╗  ██╔██╗ ██║██║  ██║███████║███████║██████╔╝
+ ╚════██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║██║  ██║██╔══██║██╔══██║██╔══██╗
+ ███████║╚██████╔╝██║  ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║██║  ██║
+ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+````
+Surendhar N
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ whoami
+
+Professional bug creator, amateur bug fixer, and certified cat enthusiast.
+
+$ education
+
+B.Tech IT @ Sethu Institute of Technology
+
+$ interests
+
+Discovering New Things | App Development | Data Analytics
+
+$ current_status
+
+Staring at a broken build until it gets uncomfortable and starts working.
+
+```
+```
