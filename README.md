@@ -111,7 +111,3 @@ Productivity ████████████░░░░░░░░  60%
 `$ exit`
 
 > Thanks for stopping by 👋
-
-```
-
-```
