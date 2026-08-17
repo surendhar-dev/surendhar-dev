@@ -94,7 +94,7 @@ Sleep         ██████░░░░░░░░░░░░░░  30%
 </details>
 
 <details>
-<summary><b>🏃 $ daily_routine</b></summary>
+<summary><b>🏃 Daily Routine</b></summary>
 
 <br>
 
